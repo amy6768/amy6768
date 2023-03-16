@@ -4,7 +4,7 @@ I'm a kindergarten teacher who has decided to switch careers and pursue a new pa
 
 I'm currently enrolled as a computer science student at Oregon State University, and I'm eager to learn as much as I can about programming, software development, and technology in general. I have experience working with Python, SQL, HTML, CSS, C, Javascript, Flask, and Assembly language.
 
-My previous experience as a teacher has given me a unique perspective in the world of technology. I understand the importance of clear communication, collaboration, and empathy when it comes to building software that serves its users.  I am excited about the potential that technology has to create meaningful solutions and make a positive impact on the world.
+My experience as a teacher has given me a unique perspective in the world of technology. I understand the importance of clear communication, collaboration, and empathy when it comes to building software that serves its users.  I am excited about the potential that technology has to create meaningful solutions and make a positive impact on the world.
 
 Feel free to check out my repositories and projects, and don't hesitate to contact me if you have any questions or if you're interested in collaborating on a project!
 

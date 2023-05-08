@@ -1,6 +1,6 @@
 Hello! 👋 
 
-I'm a kindergarten teacher who decided to switch careers to pursue a new passion in software engineering. While teaching, I discovered a love for problem-solving and a fascination with technology, which led me to explore the world of coding and development.
+As a kindergarten teacher, I made a decision to embark on a new career path in software engineering. During my teaching career, I developed a strong interest in problem-solving and a curiosity for technology. This eventually led me to dive into the world of coding and software development.
 
 I'm currently enrolled as a computer science student at Oregon State University, and I'm eager to learn as much as I can about programming, software development, and technology in general. I have experience working with Python, SQL, HTML, CSS, C, Javascript, Flask, and assembly language.
 

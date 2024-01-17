@@ -2,9 +2,7 @@ Hello! 👋
 
 Experienced software engineer with a Bachelor's Degree in Computer Science and one year of experience in object-oriented languages like C#, scripting languages including Python and JavaScript, and web development using HTML/CSS. Additionally, has worked on side projects involving full-stack development using Python with Tkinter for desktop applications and JavaScript with React.js/Bootstrap for website development.
 
-My previous experience as a teacher has given me a unique perspective in the world of technology. I understand the importance of clear communication, collaboration, and empathy when it comes to building software that serves its users.  I am excited about the potential that technology has to create meaningful solutions and make a positive impact on the world.
-
-Feel free to check out my repositories and projects, and don't hesitate to contact me if you have any questions or if you're interested in collaborating on a project!
+Feel free to check out my repositories and projects, and don't hesitate to contact me if you have any questions or if you're interested in collaborating on a project.
 
 
 
